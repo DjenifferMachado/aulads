@@ -4,4 +4,7 @@ Alteração Amadeu
 
 alteração no clone arquivo1
 
+
 Alteração no Git
+
+alteração clone arquivo1
