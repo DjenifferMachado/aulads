@@ -3,3 +3,5 @@ Arquivo1
 Alteração Amadeu
 
 alteração no clone arquivo1
+
+alteração clone arquivo1
